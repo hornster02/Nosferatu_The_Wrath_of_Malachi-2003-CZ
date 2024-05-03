@@ -1,6 +1,6 @@
 STEAM (2017-11)
-<br/>
-Oficiální CZ od Cenega https://github.com/hornster02/Nosferatu_The_Wrath_of_Malachi-2003-CZ/raw/main/cz.rar
+
+Velikost 22MB https://github.com/hornster02/Nosferatu_The_Wrath_of_Malachi-2003-CZ/raw/main/cz.rar
 
 Postup
 <br/>
